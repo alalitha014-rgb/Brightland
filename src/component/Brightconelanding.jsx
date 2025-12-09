@@ -8,9 +8,6 @@ export default function App() {
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px', flexShrink: 0 }}>
               <div style={{ width: '24px', height: '24px', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2px' }}>
                 <div style={{ backgroundColor: '#14B8A6' }}></div>
-                <div style={{ backgroundColor: '#14B8A6' }}></div>
-                <div style={{ backgroundColor: '#14B8A6' }}></div>
-                <div style={{ backgroundColor: '#14B8A6' }}></div>
               </div>
               <span style={{ fontSize: '20px', fontWeight: 700, color: '#111827', whiteSpace: 'nowrap' }}>BRIGHTCONE</span>
             </div>
