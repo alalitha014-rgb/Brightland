@@ -1,1 +1,2 @@
-(https://github.com/alalitha014-rgb/Brightland/blob/c77ff6342bdb7252c106dddb5c25c56ff167e369/screenshot.png))
+
+(https://github.com/alalitha014-rgb/Brightland/blob/main/screenshot.png?raw=true)
